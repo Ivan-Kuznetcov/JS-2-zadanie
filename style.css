@@ -1,0 +1,16 @@
+div{
+    font-size: xx-large;
+    font-style: italic;
+}
+body{
+    background: #FFCC99;
+}
+p>a{
+    font-style: italic;
+    font-size: xx-large;
+    border: 5px solid rgb(92, 102, 55);
+    background: #c3bbbb;
+}
+a:hover{
+    font-size: 50px;
+}
